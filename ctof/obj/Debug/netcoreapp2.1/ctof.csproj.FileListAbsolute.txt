@@ -1,0 +1,11 @@
+C:\Users\46863229870\Senai\ctof\bin\Debug\netcoreapp2.1\ctof.deps.json
+C:\Users\46863229870\Senai\ctof\bin\Debug\netcoreapp2.1\ctof.runtimeconfig.json
+C:\Users\46863229870\Senai\ctof\bin\Debug\netcoreapp2.1\ctof.runtimeconfig.dev.json
+C:\Users\46863229870\Senai\ctof\bin\Debug\netcoreapp2.1\ctof.dll
+C:\Users\46863229870\Senai\ctof\bin\Debug\netcoreapp2.1\ctof.pdb
+C:\Users\46863229870\Senai\ctof\obj\Debug\netcoreapp2.1\ctof.csprojAssemblyReference.cache
+C:\Users\46863229870\Senai\ctof\obj\Debug\netcoreapp2.1\ctof.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Senai\ctof\obj\Debug\netcoreapp2.1\ctof.AssemblyInfoInputs.cache
+C:\Users\46863229870\Senai\ctof\obj\Debug\netcoreapp2.1\ctof.AssemblyInfo.cs
+C:\Users\46863229870\Senai\ctof\obj\Debug\netcoreapp2.1\ctof.dll
+C:\Users\46863229870\Senai\ctof\obj\Debug\netcoreapp2.1\ctof.pdb
