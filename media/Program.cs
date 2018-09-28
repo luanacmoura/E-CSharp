@@ -6,6 +6,8 @@ namespace media
     {
         static void Main(string[] args)
         {
+            /*Calcular a média em do preço de 5 produtos inseridos pelo usuário.
+            Cálculo de média: ((Soma dos itens) / Quantidade de Itens) */
             int i;
             float[] prods = new float[5];
             float soma=0;

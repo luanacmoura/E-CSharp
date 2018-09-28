@@ -6,6 +6,7 @@ namespace area_retangulo
     {
         static void Main(string[] args)
         {
+            /*Calcular a área de um retângulo (A =  b * alt) recebendo do usuário a base (b) e a altura (alt).*/
             float b, alt, area;
             Console.WriteLine("Insira o valor da base!");
             b = float.Parse (Console.ReadLine());

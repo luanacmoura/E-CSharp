@@ -6,6 +6,10 @@ namespace imc
     {
         static void Main(string[] args)
         {
+            /*Receber a altura e peso de 3 pessoas e calcular o IMC destas. 
+            Apresentar os valores obtidos no console.
+            Cálculo de IMC: IMC = peso / altura ²;*/
+
             //serve para organizar o código podendo minimizar a região
             #region 
             float alt1, alt2, alt3, p1, p2, p3,imc1, imc2, imc3;

@@ -6,6 +6,8 @@ namespace Variaveis
     {
         static void Main(string[] args)
         {
+            /*Receber do usuário seu nome, idade, altura, data de nascimento e sexo(M ou F) em variáveis. 
+            Após receber os dados, limpar a tela e apresentar os dados recebidos no console em uma linha apenas. */
             string Nome, Sx_write;
             sbyte Idade;
             float Altura;
@@ -27,7 +29,7 @@ namespace Variaveis
             }
             Console.WriteLine ("Insira a sua data de Nascimento.");
             Data_Nasc = DateTime.Parse (Console.ReadLine());
-            
+            Console.Clear();
             Console.WriteLine ("Seu nome é " + Nome + 
             ", tem " + Idade + 
             " anos, tem " + Altura + 

@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\obj\Debug\netcoreapp2.1\manuseio_strings.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\obj\Debug\netcoreapp2.1\manuseio_strings.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\obj\Debug\netcoreapp2.1\manuseio_strings.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\obj\Debug\netcoreapp2.1\manuseio_strings.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\bin\Debug\netcoreapp2.1\manuseio_strings.deps.json
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\bin\Debug\netcoreapp2.1\manuseio_strings.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\bin\Debug\netcoreapp2.1\manuseio_strings.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\bin\Debug\netcoreapp2.1\manuseio_strings.dll
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\bin\Debug\netcoreapp2.1\manuseio_strings.pdb
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\obj\Debug\netcoreapp2.1\manuseio_strings.dll
+C:\Users\46863229870\Exercícios - C#\manuseio_strings\obj\Debug\netcoreapp2.1\manuseio_strings.pdb

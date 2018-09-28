@@ -7,6 +7,9 @@ namespace imc_comclasse
     {
         static void Main(string[] args)
         { 
+            /*Receber a altura e peso de 3 pessoas e calcular o IMC destas. 
+            Apresentar os valores obtidos no console.
+            Cálculo de IMC: IMC = peso / altura ²;*/
             pessoa pessoa1 = new pessoa();
             pessoa pessoa2 = new pessoa();
             pessoa pessoa3 = new pessoa();
