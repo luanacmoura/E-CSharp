@@ -1,9 +1,9 @@
-namespace reajuste.classe
+namespace Reajuste.Classe
 {
-    public class aplicacao
+    public class Aplicacao
     {
         public string nome;
-        public float valor;
-        public float rent;
+        public int rent;
+        public float juros;
     }
 }
