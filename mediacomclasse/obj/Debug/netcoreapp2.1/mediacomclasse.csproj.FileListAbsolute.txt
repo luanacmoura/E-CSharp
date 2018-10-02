@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\bin\Debug\netcoreapp2.1\mediacomclasse.deps.json
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\bin\Debug\netcoreapp2.1\mediacomclasse.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\bin\Debug\netcoreapp2.1\mediacomclasse.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\bin\Debug\netcoreapp2.1\mediacomclasse.dll
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\bin\Debug\netcoreapp2.1\mediacomclasse.pdb
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\obj\Debug\netcoreapp2.1\mediacomclasse.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\obj\Debug\netcoreapp2.1\mediacomclasse.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\obj\Debug\netcoreapp2.1\mediacomclasse.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\obj\Debug\netcoreapp2.1\mediacomclasse.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\obj\Debug\netcoreapp2.1\mediacomclasse.dll
+C:\Users\46863229870\Exercícios - C#\mediacomclasse\obj\Debug\netcoreapp2.1\mediacomclasse.pdb

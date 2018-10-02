@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\reajuste\obj\Debug\netcoreapp2.1\reajuste.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\reajuste\obj\Debug\netcoreapp2.1\reajuste.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\reajuste\obj\Debug\netcoreapp2.1\reajuste.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\reajuste\obj\Debug\netcoreapp2.1\reajuste.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\reajuste\bin\Debug\netcoreapp2.1\reajuste.deps.json
+C:\Users\46863229870\Exercícios - C#\reajuste\bin\Debug\netcoreapp2.1\reajuste.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\reajuste\bin\Debug\netcoreapp2.1\reajuste.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\reajuste\bin\Debug\netcoreapp2.1\reajuste.dll
+C:\Users\46863229870\Exercícios - C#\reajuste\bin\Debug\netcoreapp2.1\reajuste.pdb
+C:\Users\46863229870\Exercícios - C#\reajuste\obj\Debug\netcoreapp2.1\reajuste.dll
+C:\Users\46863229870\Exercícios - C#\reajuste\obj\Debug\netcoreapp2.1\reajuste.pdb

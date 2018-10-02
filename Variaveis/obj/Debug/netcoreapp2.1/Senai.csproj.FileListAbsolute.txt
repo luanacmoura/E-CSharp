@@ -1,0 +1,33 @@
+C:\Users\46863229870\Senai\bin\Debug\netcoreapp2.1\Senai.deps.json
+C:\Users\46863229870\Senai\bin\Debug\netcoreapp2.1\Senai.runtimeconfig.json
+C:\Users\46863229870\Senai\bin\Debug\netcoreapp2.1\Senai.runtimeconfig.dev.json
+C:\Users\46863229870\Senai\bin\Debug\netcoreapp2.1\Senai.dll
+C:\Users\46863229870\Senai\bin\Debug\netcoreapp2.1\Senai.pdb
+C:\Users\46863229870\Senai\obj\Debug\netcoreapp2.1\Senai.csprojAssemblyReference.cache
+C:\Users\46863229870\Senai\obj\Debug\netcoreapp2.1\Senai.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Senai\obj\Debug\netcoreapp2.1\Senai.AssemblyInfoInputs.cache
+C:\Users\46863229870\Senai\obj\Debug\netcoreapp2.1\Senai.AssemblyInfo.cs
+C:\Users\46863229870\Senai\obj\Debug\netcoreapp2.1\Senai.dll
+C:\Users\46863229870\Senai\obj\Debug\netcoreapp2.1\Senai.pdb
+C:\Users\46863229870\Senai\Variaveis\bin\Debug\netcoreapp2.1\Senai.deps.json
+C:\Users\46863229870\Senai\Variaveis\bin\Debug\netcoreapp2.1\Senai.runtimeconfig.json
+C:\Users\46863229870\Senai\Variaveis\bin\Debug\netcoreapp2.1\Senai.runtimeconfig.dev.json
+C:\Users\46863229870\Senai\Variaveis\bin\Debug\netcoreapp2.1\Senai.dll
+C:\Users\46863229870\Senai\Variaveis\bin\Debug\netcoreapp2.1\Senai.pdb
+C:\Users\46863229870\Senai\Variaveis\obj\Debug\netcoreapp2.1\Senai.csprojAssemblyReference.cache
+C:\Users\46863229870\Senai\Variaveis\obj\Debug\netcoreapp2.1\Senai.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Senai\Variaveis\obj\Debug\netcoreapp2.1\Senai.AssemblyInfoInputs.cache
+C:\Users\46863229870\Senai\Variaveis\obj\Debug\netcoreapp2.1\Senai.AssemblyInfo.cs
+C:\Users\46863229870\Senai\Variaveis\obj\Debug\netcoreapp2.1\Senai.dll
+C:\Users\46863229870\Senai\Variaveis\obj\Debug\netcoreapp2.1\Senai.pdb
+C:\Users\46863229870\Exercícios - C#\Variaveis\bin\Debug\netcoreapp2.1\Senai.deps.json
+C:\Users\46863229870\Exercícios - C#\Variaveis\bin\Debug\netcoreapp2.1\Senai.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\Variaveis\bin\Debug\netcoreapp2.1\Senai.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\Variaveis\bin\Debug\netcoreapp2.1\Senai.dll
+C:\Users\46863229870\Exercícios - C#\Variaveis\bin\Debug\netcoreapp2.1\Senai.pdb
+C:\Users\46863229870\Exercícios - C#\Variaveis\obj\Debug\netcoreapp2.1\Senai.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\Variaveis\obj\Debug\netcoreapp2.1\Senai.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\Variaveis\obj\Debug\netcoreapp2.1\Senai.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\Variaveis\obj\Debug\netcoreapp2.1\Senai.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\Variaveis\obj\Debug\netcoreapp2.1\Senai.dll
+C:\Users\46863229870\Exercícios - C#\Variaveis\obj\Debug\netcoreapp2.1\Senai.pdb
