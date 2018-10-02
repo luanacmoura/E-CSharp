@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\bin\Debug\netcoreapp2.1\media_ifsimples.deps.json
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\bin\Debug\netcoreapp2.1\media_ifsimples.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\bin\Debug\netcoreapp2.1\media_ifsimples.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\bin\Debug\netcoreapp2.1\media_ifsimples.dll
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\bin\Debug\netcoreapp2.1\media_ifsimples.pdb
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\obj\Debug\netcoreapp2.1\media_ifsimples.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\obj\Debug\netcoreapp2.1\media_ifsimples.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\obj\Debug\netcoreapp2.1\media_ifsimples.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\obj\Debug\netcoreapp2.1\media_ifsimples.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\obj\Debug\netcoreapp2.1\media_ifsimples.dll
+C:\Users\46863229870\Exercícios - C#\media_ifsimples\obj\Debug\netcoreapp2.1\media_ifsimples.pdb

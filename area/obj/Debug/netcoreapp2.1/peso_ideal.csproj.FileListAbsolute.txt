@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\peso_ideal\bin\Debug\netcoreapp2.1\peso_ideal.deps.json
+C:\Users\46863229870\Exercícios - C#\peso_ideal\bin\Debug\netcoreapp2.1\peso_ideal.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\peso_ideal\bin\Debug\netcoreapp2.1\peso_ideal.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\peso_ideal\bin\Debug\netcoreapp2.1\peso_ideal.dll
+C:\Users\46863229870\Exercícios - C#\peso_ideal\bin\Debug\netcoreapp2.1\peso_ideal.pdb
+C:\Users\46863229870\Exercícios - C#\peso_ideal\obj\Debug\netcoreapp2.1\peso_ideal.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\peso_ideal\obj\Debug\netcoreapp2.1\peso_ideal.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\peso_ideal\obj\Debug\netcoreapp2.1\peso_ideal.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\peso_ideal\obj\Debug\netcoreapp2.1\peso_ideal.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\peso_ideal\obj\Debug\netcoreapp2.1\peso_ideal.dll
+C:\Users\46863229870\Exercícios - C#\peso_ideal\obj\Debug\netcoreapp2.1\peso_ideal.pdb

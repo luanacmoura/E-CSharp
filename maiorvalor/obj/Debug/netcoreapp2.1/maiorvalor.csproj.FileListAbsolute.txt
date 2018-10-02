@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\maiorvalor\bin\Debug\netcoreapp2.1\maiorvalor.deps.json
+C:\Users\46863229870\Exercícios - C#\maiorvalor\bin\Debug\netcoreapp2.1\maiorvalor.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\maiorvalor\bin\Debug\netcoreapp2.1\maiorvalor.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\maiorvalor\bin\Debug\netcoreapp2.1\maiorvalor.dll
+C:\Users\46863229870\Exercícios - C#\maiorvalor\bin\Debug\netcoreapp2.1\maiorvalor.pdb
+C:\Users\46863229870\Exercícios - C#\maiorvalor\obj\Debug\netcoreapp2.1\maiorvalor.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\maiorvalor\obj\Debug\netcoreapp2.1\maiorvalor.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\maiorvalor\obj\Debug\netcoreapp2.1\maiorvalor.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\maiorvalor\obj\Debug\netcoreapp2.1\maiorvalor.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\maiorvalor\obj\Debug\netcoreapp2.1\maiorvalor.dll
+C:\Users\46863229870\Exercícios - C#\maiorvalor\obj\Debug\netcoreapp2.1\maiorvalor.pdb

@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\crescente\bin\Debug\netcoreapp2.1\crescente.deps.json
+C:\Users\46863229870\Exercícios - C#\crescente\bin\Debug\netcoreapp2.1\crescente.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\crescente\bin\Debug\netcoreapp2.1\crescente.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\crescente\bin\Debug\netcoreapp2.1\crescente.dll
+C:\Users\46863229870\Exercícios - C#\crescente\bin\Debug\netcoreapp2.1\crescente.pdb
+C:\Users\46863229870\Exercícios - C#\crescente\obj\Debug\netcoreapp2.1\crescente.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\crescente\obj\Debug\netcoreapp2.1\crescente.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\crescente\obj\Debug\netcoreapp2.1\crescente.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\crescente\obj\Debug\netcoreapp2.1\crescente.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\crescente\obj\Debug\netcoreapp2.1\crescente.dll
+C:\Users\46863229870\Exercícios - C#\crescente\obj\Debug\netcoreapp2.1\crescente.pdb
