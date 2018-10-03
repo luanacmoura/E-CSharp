@@ -6,12 +6,13 @@ namespace crescente
     {
         static void Main(string[] args)
         {
+            /*Escreva um programa para ler 3 valores inteiros (considere que não serão lidos
+            valores iguais) e escrevê-los em ordem crescente */
             int v1,v2,v3;
             
             Console.WriteLine("Digite o primeiro valor!");
             v1  = int.Parse(Console.ReadLine());
 
-            
             Console.WriteLine("Digite o segundo valor!");
             v2  = int.Parse(Console.ReadLine());
             
