@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\qtd_pares\bin\Debug\netcoreapp2.1\qtd_pares.deps.json
+C:\Users\46863229870\Exercícios - C#\qtd_pares\bin\Debug\netcoreapp2.1\qtd_pares.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\qtd_pares\bin\Debug\netcoreapp2.1\qtd_pares.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\qtd_pares\bin\Debug\netcoreapp2.1\qtd_pares.dll
+C:\Users\46863229870\Exercícios - C#\qtd_pares\bin\Debug\netcoreapp2.1\qtd_pares.pdb
+C:\Users\46863229870\Exercícios - C#\qtd_pares\obj\Debug\netcoreapp2.1\qtd_pares.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\qtd_pares\obj\Debug\netcoreapp2.1\qtd_pares.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\qtd_pares\obj\Debug\netcoreapp2.1\qtd_pares.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\qtd_pares\obj\Debug\netcoreapp2.1\qtd_pares.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\qtd_pares\obj\Debug\netcoreapp2.1\qtd_pares.dll
+C:\Users\46863229870\Exercícios - C#\qtd_pares\obj\Debug\netcoreapp2.1\qtd_pares.pdb
