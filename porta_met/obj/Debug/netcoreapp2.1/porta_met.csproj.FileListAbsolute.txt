@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\porta_met\bin\Debug\netcoreapp2.1\porta_met.deps.json
+C:\Users\46863229870\Exercícios - C#\porta_met\bin\Debug\netcoreapp2.1\porta_met.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\porta_met\bin\Debug\netcoreapp2.1\porta_met.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\porta_met\bin\Debug\netcoreapp2.1\porta_met.dll
+C:\Users\46863229870\Exercícios - C#\porta_met\bin\Debug\netcoreapp2.1\porta_met.pdb
+C:\Users\46863229870\Exercícios - C#\porta_met\obj\Debug\netcoreapp2.1\porta_met.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\porta_met\obj\Debug\netcoreapp2.1\porta_met.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\porta_met\obj\Debug\netcoreapp2.1\porta_met.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\porta_met\obj\Debug\netcoreapp2.1\porta_met.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\porta_met\obj\Debug\netcoreapp2.1\porta_met.dll
+C:\Users\46863229870\Exercícios - C#\porta_met\obj\Debug\netcoreapp2.1\porta_met.pdb

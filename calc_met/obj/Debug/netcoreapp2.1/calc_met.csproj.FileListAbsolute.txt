@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\calc_met\bin\Debug\netcoreapp2.1\calc_met.deps.json
+C:\Users\46863229870\Exercícios - C#\calc_met\bin\Debug\netcoreapp2.1\calc_met.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\calc_met\bin\Debug\netcoreapp2.1\calc_met.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\calc_met\bin\Debug\netcoreapp2.1\calc_met.dll
+C:\Users\46863229870\Exercícios - C#\calc_met\bin\Debug\netcoreapp2.1\calc_met.pdb
+C:\Users\46863229870\Exercícios - C#\calc_met\obj\Debug\netcoreapp2.1\calc_met.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\calc_met\obj\Debug\netcoreapp2.1\calc_met.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\calc_met\obj\Debug\netcoreapp2.1\calc_met.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\calc_met\obj\Debug\netcoreapp2.1\calc_met.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\calc_met\obj\Debug\netcoreapp2.1\calc_met.dll
+C:\Users\46863229870\Exercícios - C#\calc_met\obj\Debug\netcoreapp2.1\calc_met.pdb
