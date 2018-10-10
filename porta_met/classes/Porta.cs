@@ -14,7 +14,7 @@ namespace porta_met.classes
             }
         }
 
-        public void Fechar(){
+        public void Fechar(){ 
             if (aberta==true){ // se estiver aberta ele fecha a porta
                 Console.WriteLine("A porta fechou!");
             }

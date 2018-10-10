@@ -18,9 +18,9 @@ namespace porta_met
             void Fechar() : Caso a porta esteja aberta, exibir a mensagem:
             “A porta fechou”, caso contrário exibir a mensagem “Porta já esta fechada". 
             Faça uma implementação que simule o estado da porta se encontra fechada;  */
-            int opcao, sair=0;
+            int opcao=2;
             Porta porta1 = new Porta();
-            while (sair == 0) {
+            while (opcao != 0) {
                 Console.WriteLine("Em que estado a porta esta?");
                 Console.WriteLine("1. Aberta");
                 Console.WriteLine("2. Fechada");
@@ -36,16 +36,14 @@ namespace porta_met
                 Console.WriteLine("Qual ação deseja realizar?");
                 Console.WriteLine("1. Abrir");
                 Console.WriteLine("2. Fechar");
+                Console.WriteLine("0. Sair");
                 opcao = int.Parse(Console.ReadLine());
                 if (opcao == 1){
                     porta1.Abrir();
                 }
-                else {
+                else if (opcao == 2) {
                     porta1.Fechar();
                 }
-
-                Console.WriteLine("Deseja sair? 1 - Sim, 0 - Não");
-                sair = int.Parse(Console.ReadLine());
             }
         }
     }
