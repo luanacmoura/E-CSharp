@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\sorteionum\bin\Debug\netcoreapp2.1\sorteionum.deps.json
+C:\Users\46863229870\Exercícios - C#\sorteionum\bin\Debug\netcoreapp2.1\sorteionum.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\sorteionum\bin\Debug\netcoreapp2.1\sorteionum.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\sorteionum\bin\Debug\netcoreapp2.1\sorteionum.dll
+C:\Users\46863229870\Exercícios - C#\sorteionum\bin\Debug\netcoreapp2.1\sorteionum.pdb
+C:\Users\46863229870\Exercícios - C#\sorteionum\obj\Debug\netcoreapp2.1\sorteionum.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\sorteionum\obj\Debug\netcoreapp2.1\sorteionum.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\sorteionum\obj\Debug\netcoreapp2.1\sorteionum.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\sorteionum\obj\Debug\netcoreapp2.1\sorteionum.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\sorteionum\obj\Debug\netcoreapp2.1\sorteionum.dll
+C:\Users\46863229870\Exercícios - C#\sorteionum\obj\Debug\netcoreapp2.1\sorteionum.pdb
