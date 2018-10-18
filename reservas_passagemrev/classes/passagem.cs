@@ -1,11 +1,21 @@
 using System;
-
 namespace reservas_passagemrev.classes
 {
-    public class passagem
+    public class Passagem
     {
-        public int npassagem {get; set;}
-        public string nome {get; set;}
-        public DateTime datadovoo {get; set;}
+        public int numeroPassagem { get; set; }
+        public string nomePassageiro { get; set; }
+        public DateTime dataVoo { get; set; }
+
+        #region Metodos
+            public void ReceberDados () {
+                Console.WriteLine ("Digite o Número da Passagem");
+                numeroPassagem = int.Parse (Console.ReadLine ());
+                Console.WriteLine ("Digite o nome do passageiro");
+                nomePassageiro = Console.ReadLine ();
+                Console.WriteLine ("Digite a data do Voo");
+                dataVoo = DateTime.Parse (Console.ReadLine());
+            }
+        #endregion
     }
 }
