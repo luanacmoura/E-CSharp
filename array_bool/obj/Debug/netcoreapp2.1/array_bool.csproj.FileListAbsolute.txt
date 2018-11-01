@@ -1,4 +1,0 @@
-C:\Users\46863229870\Exercícios - C#\array_bool\obj\Debug\netcoreapp2.1\array_bool.csprojAssemblyReference.cache
-C:\Users\46863229870\Exercícios - C#\array_bool\obj\Debug\netcoreapp2.1\array_bool.csproj.CoreCompileInputs.cache
-C:\Users\46863229870\Exercícios - C#\array_bool\obj\Debug\netcoreapp2.1\array_bool.AssemblyInfoInputs.cache
-C:\Users\46863229870\Exercícios - C#\array_bool\obj\Debug\netcoreapp2.1\array_bool.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\46863229870\Desktop\Revisao-MVC\bin\Debug\netcoreapp2.1\Revisao-MVC.deps.json
+C:\Users\46863229870\Desktop\Revisao-MVC\bin\Debug\netcoreapp2.1\Revisao-MVC.runtimeconfig.json
+C:\Users\46863229870\Desktop\Revisao-MVC\bin\Debug\netcoreapp2.1\Revisao-MVC.runtimeconfig.dev.json
+C:\Users\46863229870\Desktop\Revisao-MVC\bin\Debug\netcoreapp2.1\Revisao-MVC.dll
+C:\Users\46863229870\Desktop\Revisao-MVC\bin\Debug\netcoreapp2.1\Revisao-MVC.pdb
+C:\Users\46863229870\Desktop\Revisao-MVC\obj\Debug\netcoreapp2.1\Revisao-MVC.csprojAssemblyReference.cache
+C:\Users\46863229870\Desktop\Revisao-MVC\obj\Debug\netcoreapp2.1\Revisao-MVC.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Desktop\Revisao-MVC\obj\Debug\netcoreapp2.1\Revisao-MVC.AssemblyInfoInputs.cache
+C:\Users\46863229870\Desktop\Revisao-MVC\obj\Debug\netcoreapp2.1\Revisao-MVC.AssemblyInfo.cs
+C:\Users\46863229870\Desktop\Revisao-MVC\obj\Debug\netcoreapp2.1\Revisao-MVC.dll
+C:\Users\46863229870\Desktop\Revisao-MVC\obj\Debug\netcoreapp2.1\Revisao-MVC.pdb
