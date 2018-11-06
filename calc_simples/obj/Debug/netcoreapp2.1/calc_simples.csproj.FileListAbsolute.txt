@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\calc_simples\bin\Debug\netcoreapp2.1\calc_simples.deps.json
+C:\Users\46863229870\Exercícios - C#\calc_simples\bin\Debug\netcoreapp2.1\calc_simples.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\calc_simples\bin\Debug\netcoreapp2.1\calc_simples.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\calc_simples\bin\Debug\netcoreapp2.1\calc_simples.dll
+C:\Users\46863229870\Exercícios - C#\calc_simples\bin\Debug\netcoreapp2.1\calc_simples.pdb
+C:\Users\46863229870\Exercícios - C#\calc_simples\obj\Debug\netcoreapp2.1\calc_simples.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\calc_simples\obj\Debug\netcoreapp2.1\calc_simples.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\calc_simples\obj\Debug\netcoreapp2.1\calc_simples.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\calc_simples\obj\Debug\netcoreapp2.1\calc_simples.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\calc_simples\obj\Debug\netcoreapp2.1\calc_simples.dll
+C:\Users\46863229870\Exercícios - C#\calc_simples\obj\Debug\netcoreapp2.1\calc_simples.pdb

@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\bin\Debug\netcoreapp2.1\usuariocmatriz.deps.json
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\bin\Debug\netcoreapp2.1\usuariocmatriz.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\bin\Debug\netcoreapp2.1\usuariocmatriz.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\bin\Debug\netcoreapp2.1\usuariocmatriz.dll
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\bin\Debug\netcoreapp2.1\usuariocmatriz.pdb
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\obj\Debug\netcoreapp2.1\usuariocmatriz.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\obj\Debug\netcoreapp2.1\usuariocmatriz.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\obj\Debug\netcoreapp2.1\usuariocmatriz.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\obj\Debug\netcoreapp2.1\usuariocmatriz.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\obj\Debug\netcoreapp2.1\usuariocmatriz.dll
+C:\Users\46863229870\Exercícios - C#\usuariocmatriz\obj\Debug\netcoreapp2.1\usuariocmatriz.pdb

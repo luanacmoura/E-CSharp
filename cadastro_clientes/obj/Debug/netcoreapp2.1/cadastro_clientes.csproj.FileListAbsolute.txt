@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\bin\Debug\netcoreapp2.1\cadastro_clientes.deps.json
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\bin\Debug\netcoreapp2.1\cadastro_clientes.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\bin\Debug\netcoreapp2.1\cadastro_clientes.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\bin\Debug\netcoreapp2.1\cadastro_clientes.dll
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\bin\Debug\netcoreapp2.1\cadastro_clientes.pdb
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\obj\Debug\netcoreapp2.1\cadastro_clientes.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\obj\Debug\netcoreapp2.1\cadastro_clientes.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\obj\Debug\netcoreapp2.1\cadastro_clientes.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\obj\Debug\netcoreapp2.1\cadastro_clientes.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\obj\Debug\netcoreapp2.1\cadastro_clientes.dll
+C:\Users\46863229870\Exercícios - C#\cadastro_clientes\obj\Debug\netcoreapp2.1\cadastro_clientes.pdb

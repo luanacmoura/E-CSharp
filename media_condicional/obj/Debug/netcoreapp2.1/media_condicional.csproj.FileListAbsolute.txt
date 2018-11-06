@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\media_condicional\bin\Debug\netcoreapp2.1\media_condicional.deps.json
+C:\Users\46863229870\Exercícios - C#\media_condicional\bin\Debug\netcoreapp2.1\media_condicional.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\media_condicional\bin\Debug\netcoreapp2.1\media_condicional.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\media_condicional\bin\Debug\netcoreapp2.1\media_condicional.dll
+C:\Users\46863229870\Exercícios - C#\media_condicional\bin\Debug\netcoreapp2.1\media_condicional.pdb
+C:\Users\46863229870\Exercícios - C#\media_condicional\obj\Debug\netcoreapp2.1\media_condicional.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\media_condicional\obj\Debug\netcoreapp2.1\media_condicional.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\media_condicional\obj\Debug\netcoreapp2.1\media_condicional.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\media_condicional\obj\Debug\netcoreapp2.1\media_condicional.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\media_condicional\obj\Debug\netcoreapp2.1\media_condicional.dll
+C:\Users\46863229870\Exercícios - C#\media_condicional\obj\Debug\netcoreapp2.1\media_condicional.pdb

@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\votar\bin\Debug\netcoreapp2.1\votar.deps.json
+C:\Users\46863229870\Exercícios - C#\votar\bin\Debug\netcoreapp2.1\votar.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\votar\bin\Debug\netcoreapp2.1\votar.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\votar\bin\Debug\netcoreapp2.1\votar.dll
+C:\Users\46863229870\Exercícios - C#\votar\bin\Debug\netcoreapp2.1\votar.pdb
+C:\Users\46863229870\Exercícios - C#\votar\obj\Debug\netcoreapp2.1\votar.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\votar\obj\Debug\netcoreapp2.1\votar.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\votar\obj\Debug\netcoreapp2.1\votar.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\votar\obj\Debug\netcoreapp2.1\votar.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\votar\obj\Debug\netcoreapp2.1\votar.dll
+C:\Users\46863229870\Exercícios - C#\votar\obj\Debug\netcoreapp2.1\votar.pdb

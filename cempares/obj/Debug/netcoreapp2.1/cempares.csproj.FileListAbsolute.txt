@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\cempares\bin\Debug\netcoreapp2.1\cempares.deps.json
+C:\Users\46863229870\Exercícios - C#\cempares\bin\Debug\netcoreapp2.1\cempares.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\cempares\bin\Debug\netcoreapp2.1\cempares.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\cempares\bin\Debug\netcoreapp2.1\cempares.dll
+C:\Users\46863229870\Exercícios - C#\cempares\bin\Debug\netcoreapp2.1\cempares.pdb
+C:\Users\46863229870\Exercícios - C#\cempares\obj\Debug\netcoreapp2.1\cempares.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\cempares\obj\Debug\netcoreapp2.1\cempares.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\cempares\obj\Debug\netcoreapp2.1\cempares.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\cempares\obj\Debug\netcoreapp2.1\cempares.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\cempares\obj\Debug\netcoreapp2.1\cempares.dll
+C:\Users\46863229870\Exercícios - C#\cempares\obj\Debug\netcoreapp2.1\cempares.pdb

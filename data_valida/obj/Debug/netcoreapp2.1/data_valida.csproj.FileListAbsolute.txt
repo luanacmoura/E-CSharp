@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\data_valida\bin\Debug\netcoreapp2.1\data_valida.deps.json
+C:\Users\46863229870\Exercícios - C#\data_valida\bin\Debug\netcoreapp2.1\data_valida.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\data_valida\bin\Debug\netcoreapp2.1\data_valida.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\data_valida\bin\Debug\netcoreapp2.1\data_valida.dll
+C:\Users\46863229870\Exercícios - C#\data_valida\bin\Debug\netcoreapp2.1\data_valida.pdb
+C:\Users\46863229870\Exercícios - C#\data_valida\obj\Debug\netcoreapp2.1\data_valida.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\data_valida\obj\Debug\netcoreapp2.1\data_valida.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\data_valida\obj\Debug\netcoreapp2.1\data_valida.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\data_valida\obj\Debug\netcoreapp2.1\data_valida.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\data_valida\obj\Debug\netcoreapp2.1\data_valida.dll
+C:\Users\46863229870\Exercícios - C#\data_valida\obj\Debug\netcoreapp2.1\data_valida.pdb

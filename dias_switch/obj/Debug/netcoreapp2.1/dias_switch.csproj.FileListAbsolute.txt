@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\dias_switch\bin\Debug\netcoreapp2.1\dias_switch.deps.json
+C:\Users\46863229870\Exercícios - C#\dias_switch\bin\Debug\netcoreapp2.1\dias_switch.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\dias_switch\bin\Debug\netcoreapp2.1\dias_switch.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\dias_switch\bin\Debug\netcoreapp2.1\dias_switch.dll
+C:\Users\46863229870\Exercícios - C#\dias_switch\bin\Debug\netcoreapp2.1\dias_switch.pdb
+C:\Users\46863229870\Exercícios - C#\dias_switch\obj\Debug\netcoreapp2.1\dias_switch.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\dias_switch\obj\Debug\netcoreapp2.1\dias_switch.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\dias_switch\obj\Debug\netcoreapp2.1\dias_switch.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\dias_switch\obj\Debug\netcoreapp2.1\dias_switch.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\dias_switch\obj\Debug\netcoreapp2.1\dias_switch.dll
+C:\Users\46863229870\Exercícios - C#\dias_switch\obj\Debug\netcoreapp2.1\dias_switch.pdb

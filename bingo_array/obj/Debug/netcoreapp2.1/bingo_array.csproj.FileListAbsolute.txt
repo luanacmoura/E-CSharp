@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\bingo_array\obj\Debug\netcoreapp2.1\bingo_array.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\bingo_array\obj\Debug\netcoreapp2.1\bingo_array.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\bingo_array\obj\Debug\netcoreapp2.1\bingo_array.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\bingo_array\obj\Debug\netcoreapp2.1\bingo_array.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\bingo_array\bin\Debug\netcoreapp2.1\bingo_array.deps.json
+C:\Users\46863229870\Exercícios - C#\bingo_array\bin\Debug\netcoreapp2.1\bingo_array.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\bingo_array\bin\Debug\netcoreapp2.1\bingo_array.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\bingo_array\bin\Debug\netcoreapp2.1\bingo_array.dll
+C:\Users\46863229870\Exercícios - C#\bingo_array\bin\Debug\netcoreapp2.1\bingo_array.pdb
+C:\Users\46863229870\Exercícios - C#\bingo_array\obj\Debug\netcoreapp2.1\bingo_array.dll
+C:\Users\46863229870\Exercícios - C#\bingo_array\obj\Debug\netcoreapp2.1\bingo_array.pdb

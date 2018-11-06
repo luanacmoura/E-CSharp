@@ -1,0 +1,11 @@
+C:\Users\46863229870\Exercícios - C#\aumentosal\bin\Debug\netcoreapp2.1\aumentosal.deps.json
+C:\Users\46863229870\Exercícios - C#\aumentosal\bin\Debug\netcoreapp2.1\aumentosal.runtimeconfig.json
+C:\Users\46863229870\Exercícios - C#\aumentosal\bin\Debug\netcoreapp2.1\aumentosal.runtimeconfig.dev.json
+C:\Users\46863229870\Exercícios - C#\aumentosal\bin\Debug\netcoreapp2.1\aumentosal.dll
+C:\Users\46863229870\Exercícios - C#\aumentosal\bin\Debug\netcoreapp2.1\aumentosal.pdb
+C:\Users\46863229870\Exercícios - C#\aumentosal\obj\Debug\netcoreapp2.1\aumentosal.csprojAssemblyReference.cache
+C:\Users\46863229870\Exercícios - C#\aumentosal\obj\Debug\netcoreapp2.1\aumentosal.csproj.CoreCompileInputs.cache
+C:\Users\46863229870\Exercícios - C#\aumentosal\obj\Debug\netcoreapp2.1\aumentosal.AssemblyInfoInputs.cache
+C:\Users\46863229870\Exercícios - C#\aumentosal\obj\Debug\netcoreapp2.1\aumentosal.AssemblyInfo.cs
+C:\Users\46863229870\Exercícios - C#\aumentosal\obj\Debug\netcoreapp2.1\aumentosal.dll
+C:\Users\46863229870\Exercícios - C#\aumentosal\obj\Debug\netcoreapp2.1\aumentosal.pdb
